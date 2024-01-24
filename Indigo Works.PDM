@@ -1,0 +1,1412 @@
+[Root]
+Most Recent Package=Indigo Works 2.1
+
+
+[Package|Standard Setup Package 2|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=c:\Documents and Settings\Administrador\Meus documentos\Teste Indigo
+
+[Package|Standard Setup Package 2|Configure DAO ISAMs]
+Applicable=No
+Jet 2.x=Yes
+
+[Package|Standard Setup Package 2|Configure DAO ODBC]
+JetWorkspace=Yes
+ODBCDirect=Yes
+
+[Package|Standard Setup Package 2|Files Found]
+
+[Package|Standard Setup Package 2|Files Released]
+u2dapp.dll=
+u2dpost.dll=
+u2fxml.dll=
+u2fsepv.dll=
+u2fcr.dll=
+Unicows.dll=
+
+[Package|Standard Setup Package 2|Missing Dependency Information]
+C:\Arquivos de programas\Arquivos comuns\System\Ole DB\oledb32.dll=
+C:\Arquivos de programas\Arquivos comuns\System\ado\msado25.tlb=
+
+[Package|Standard Setup Package 2|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\Mscomctl.ocx=
+C:\WINDOWS\system32\MSSTDFMT.DLL=
+
+[Package|Standard Setup Package 2|Files Added]
+d:\matiz\indigo works\indigoworks.mdb=
+
+[Package|Standard Setup Package 2|Files Removed]
+c:\arquivos de programas\arquivos comuns\system\ole db\oledb32.dll=
+c:\arquivos de programas\arquivos comuns\crystal decisions\2.0\bin\cr9deploy.reg=
+c:\arquivos de programas\arquivos comuns\crystal decisions\2.0\bin\cranalyzer.dll=
+c:\arquivos de programas\arquivos comuns\crystal decisions\2.0\bin\crxf_xls.dll=
+c:\arquivos de programas\arquivos comuns\crystal decisions\2.0\bin\crxf_wordw.dll=
+c:\arquivos de programas\arquivos comuns\crystal decisions\2.0\bin\crxf_rtf.dll=
+c:\arquivos de programas\arquivos comuns\crystal decisions\2.0\bin\crxf_pdf.dll=
+c:\arquivos de programas\arquivos comuns\crystal decisions\2.0\bin\crtslv.dll=
+c:\arquivos de programas\arquivos comuns\crystal decisions\2.0\bin\crtowords_en.dll=
+c:\arquivos de programas\arquivos comuns\crystal decisions\2.0\bin\crqe.dll=
+c:\arquivos de programas\arquivos comuns\crystal decisions\2.0\bin\crdb_odbc.dll=
+c:\arquivos de programas\arquivos comuns\crystal decisions\2.0\bin\crdb_dictionary.dll=
+c:\arquivos de programas\arquivos comuns\crystal decisions\2.0\bin\crdb_dao.dll=
+c:\arquivos de programas\arquivos comuns\crystal decisions\2.0\bin\crdb_ado.dll=
+c:\arquivos de programas\crystal decisions\report designer component\craxdrt9.dll=
+c:\arquivos de programas\arquivos comuns\crystal decisions\2.0\bin\craxddrt9.dll=
+c:\arquivos de programas\arquivos comuns\crystal decisions\2.0\bin\exlate32.dll=
+c:\arquivos de programas\arquivos comuns\crystal decisions\2.0\bin\implode.dll=
+c:\arquivos de programas\arquivos comuns\crystal decisions\2.0\bin\filedialog.dll=
+c:\arquivos de programas\arquivos comuns\crystal decisions\2.0\bin\exportmodeller.dll=
+c:\arquivos de programas\arquivos comuns\crystal decisions\2.0\bin\keycode.dll=
+c:\arquivos de programas\arquivos comuns\crystal decisions\2.0\bin\p2ixbse.dll=
+c:\arquivos de programas\arquivos comuns\crystal decisions\2.0\bin\querybuilder.dll=
+c:\arquivos de programas\arquivos comuns\crystal decisions\2.0\bin\sacommoncontrols.dll=
+c:\arquivos de programas\arquivos comuns\crystal decisions\2.0\bin\sscdlg.dll=
+c:\arquivos de programas\arquivos comuns\crystal decisions\2.0\bin\sscrc.dll=
+c:\arquivos de programas\arquivos comuns\crystal decisions\2.0\bin\sscsdk80.dll=
+c:\arquivos de programas\arquivos comuns\crystal decisions\2.0\bin\u2ftext.dll=
+c:\arquivos de programas\arquivos comuns\crystal decisions\2.0\bin\u2ddisk.dll=
+c:\arquivos de programas\arquivos comuns\crystal decisions\2.0\bin\u25samp1.dll=
+c:\arquivos de programas\arquivos comuns\crystal decisions\2.0\bin\u25dts.dll=
+c:\arquivos de programas\arquivos comuns\crystal decisions\2.0\bin\u252000.dll=
+c:\arquivos de programas\arquivos comuns\crystal decisions\2.0\bin\ufmanager.dll=
+c:\arquivos de programas\arquivos comuns\crystal decisions\2.0\bin\u2lfinra.dll=
+c:\arquivos de programas\arquivos comuns\crystal decisions\2.0\bin\u2lexch.dll=
+c:\arquivos de programas\arquivos comuns\crystal decisions\2.0\bin\u2ldts.dll=
+c:\arquivos de programas\arquivos comuns\crystal decisions\2.0\bin\u2lcom.dll=
+c:\arquivos de programas\arquivos comuns\crystal decisions\2.0\bin\u2l2000.dll=
+
+[Package|Standard Setup Package 2|Files In Project]
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\Mscomctl.ocx=Yes
+C:\WINDOWS\system32\MSMASK32.OCX=Yes
+C:\WINDOWS\system32\MSFLXGRD.OCX=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+D:\matiz\Indigo Works\IndigoWorks.mdb=Yes
+C:\WINDOWS\system32\TABCTL32.OCX=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\WINDOWS\system32\Comdlg32.ocx=Yes
+C:\Arquivos de programas\Crystal Decisions\Report Designer Component\craxdrt9.dll=No
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT.DLL=Yes
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\crtowords_en.dll=No
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\ufmanager.dll=No
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\u2l2000.dll=No
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\u2lcom.dll=No
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\u2ldts.dll=No
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\u2lexch.dll=No
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\u2lfinra.dll=No
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\u252000.dll=No
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\u25dts.dll=No
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\u25samp1.dll=No
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\sscsdk80.dll=No
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\Implode.dll=No
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\crqe.dll=No
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\crdb_ado.dll=No
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\crdb_dao.dll=No
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\crdb_odbc.dll=No
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\querybuilder.dll=No
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\exlate32.dll=No
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\crxf_rtf.dll=No
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\ExportModeller.dll=No
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\crtslv.dll=No
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\crxf_wordw.dll=No
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\crxf_xls.dll=No
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\crxf_pdf.dll=No
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\u2ftext.dll=No
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\u2ddisk.dll=No
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\keycode.dll=No
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\CR9Deploy.reg=No
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\craxddrt9.dll=No
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\sscrc.dll=No
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\sscdlg.dll=No
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\CRAnalyzer.dll=No
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\p2ixbse.dll=No
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\crdb_dictionary.dll=No
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\filedialog.dll=No
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\sacommoncontrols.dll=No
+D:\matiz\Indigo Works\IndigoWorks.exe=Yes
+
+[Package|Standard Setup Package 2|Configure Registry Files]
+Applicable=No
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\CR9Deploy.reg=Register
+
+[Package|Standard Setup Package 2|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 2|Install Locations]
+D:\matiz\PROJETO NOVO\Indigo  Works.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSDBRPTR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\Arquivos de programas\Arquivos comuns\System\ado\msado25.tlb=$(WinSysPath)
+C:\Arquivos de programas\Arquivos comuns\designer\MSDERUN.DLL=$(CommonFiles)\designer
+C:\Arquivos de programas\Arquivos comuns\Microsoft Shared\DAO\DAO350.DLL=$(MSDAOPath)
+C:\WINDOWS\system32\MSJET35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSJTER35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSJINT35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\vbajet32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\expsrv.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSRD2X35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSREPL35.DLL=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB5DB.DLL=$(WinSysPath)
+C:\Arquivos de programas\Arquivos comuns\System\Ole DB\oledb32.dll=$(WinSysPath)
+C:\WINDOWS\system32\Mscomctl.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSMASK32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSFLXGRD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSDATGRD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSRDO20.DLL=$(WinSysPath)
+C:\WINDOWS\system32\RDOCURS.DLL=$(WinSysPath)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\matiz\Indigo Works\IndigoWorks.mdb=$(AppPath)
+D:\matiz\Indigo Works\Indigo  Works.exe=$(AppPath)
+C:\WINDOWS\system32\TABCTL32.OCX=$(WinSysPath)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\WINDOWS\system32\Comdlg32.ocx=$(WinSysPath)
+C:\Arquivos de programas\Crystal Decisions\Report Designer Component\craxdrt9.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT.DLL=$(WinSysPath)
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\crtowords_en.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\ufmanager.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\u2l2000.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\u2lcom.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\u2ldts.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\u2lexch.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\u2lfinra.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\u252000.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\u25dts.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\u25samp1.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\sscsdk80.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\Implode.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\crqe.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\crdb_ado.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\crdb_dao.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\crdb_odbc.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\querybuilder.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\exlate32.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\crxf_rtf.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\ExportModeller.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\crtslv.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\crxf_wordw.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\crxf_xls.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\crxf_pdf.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\u2ftext.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\u2ddisk.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\keycode.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\craxddrt9.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\sscrc.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\sscdlg.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\CRAnalyzer.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\p2ixbse.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\crdb_dictionary.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\filedialog.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\sacommoncontrols.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+D:\matiz\Indigo Works\IndigoWorks.exe=$(AppPath)
+
+[Package|Standard Setup Package 2|Configure Shared Files]
+Applicable=Yes
+D:\matiz\PROJETO NOVO\Indigo  Works.exe=No
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+D:\matiz\Indigo Works\IndigoWorks.mdb=Yes
+D:\matiz\Indigo Works\Indigo  Works.exe=Yes
+D:\matiz\Indigo Works\IndigoWorks.exe=Yes
+
+[Package|Standard Setup Package 2|Distribution]
+Type=single
+Size=1.44 MB
+Title=Indigo Works
+
+[Package|Standard Setup Package 2|IconGroups]
+Group0=Indigo Works
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|Standard Setup Package 2|Indigo Works]
+Icon1="Indigo  Works.exe"
+Title1=Indigo Works
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standard Setup Package 2|Package]
+PackageFolder=c:\Documents and Settings\Administrador\Meus documentos\Teste Indigo
+ProjectFolder=D:\matiz\Indigo Works
+ServerSideCab=
+File1=c:\Documents and Settings\Administrador\Meus documentos\Teste Indigo\setup.exe
+File2=c:\Documents and Settings\Administrador\Meus documentos\Teste Indigo\Setup.Lst
+File3=c:\Documents and Settings\Administrador\Meus documentos\Teste Indigo\IndigoWorks.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Standard Setup Package 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=c:\Documents and Settings\Administrador\Meus documentos\Teste Indigo
+
+[Package|Standard Setup Package 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 1|Files Found]
+
+[Package|Standard Setup Package 1|Files Released]
+u2dapp.dll=
+u2dpost.dll=
+u2fxml.dll=
+u2fsepv.dll=
+u2fcr.dll=
+Unicows.dll=
+
+[Package|Standard Setup Package 1|Missing Dependency Information]
+
+[Package|Standard Setup Package 1|Out-of-Date Dependency Information]
+
+[Package|Standard Setup Package 1|Files Added]
+
+[Package|Standard Setup Package 1|Files Removed]
+c:\arquivos de programas\arquivos comuns\crystal decisions\2.0\bin\cr9deploy.reg=
+c:\arquivos de programas\arquivos comuns\crystal decisions\2.0\bin\cranalyzer.dll=
+c:\arquivos de programas\arquivos comuns\crystal decisions\2.0\bin\craxddrt9.dll=
+c:\arquivos de programas\crystal decisions\report designer component\craxdrt9.dll=
+c:\arquivos de programas\arquivos comuns\crystal decisions\2.0\bin\crdb_ado.dll=
+c:\arquivos de programas\arquivos comuns\crystal decisions\2.0\bin\crdb_dao.dll=
+c:\arquivos de programas\arquivos comuns\crystal decisions\2.0\bin\crdb_dictionary.dll=
+c:\arquivos de programas\arquivos comuns\crystal decisions\2.0\bin\crdb_odbc.dll=
+c:\arquivos de programas\arquivos comuns\crystal decisions\2.0\bin\crqe.dll=
+c:\arquivos de programas\arquivos comuns\crystal decisions\2.0\bin\crtowords_en.dll=
+c:\arquivos de programas\arquivos comuns\crystal decisions\2.0\bin\crtslv.dll=
+c:\arquivos de programas\arquivos comuns\crystal decisions\2.0\bin\crxf_pdf.dll=
+c:\arquivos de programas\arquivos comuns\crystal decisions\2.0\bin\crxf_rtf.dll=
+c:\arquivos de programas\arquivos comuns\crystal decisions\2.0\bin\crxf_wordw.dll=
+c:\arquivos de programas\arquivos comuns\crystal decisions\2.0\bin\crxf_xls.dll=
+c:\arquivos de programas\arquivos comuns\crystal decisions\2.0\bin\exlate32.dll=
+c:\arquivos de programas\arquivos comuns\crystal decisions\2.0\bin\exportmodeller.dll=
+c:\arquivos de programas\arquivos comuns\crystal decisions\2.0\bin\implode.dll=
+c:\arquivos de programas\arquivos comuns\crystal decisions\2.0\bin\p2ixbse.dll=
+c:\arquivos de programas\arquivos comuns\crystal decisions\2.0\bin\querybuilder.dll=
+c:\arquivos de programas\arquivos comuns\crystal decisions\2.0\bin\sacommoncontrols.dll=
+c:\arquivos de programas\arquivos comuns\crystal decisions\2.0\bin\sscdlg.dll=
+c:\arquivos de programas\arquivos comuns\crystal decisions\2.0\bin\sscrc.dll=
+c:\arquivos de programas\arquivos comuns\crystal decisions\2.0\bin\sscsdk80.dll=
+c:\arquivos de programas\arquivos comuns\crystal decisions\2.0\bin\u252000.dll=
+c:\arquivos de programas\arquivos comuns\crystal decisions\2.0\bin\u25dts.dll=
+c:\arquivos de programas\arquivos comuns\crystal decisions\2.0\bin\u25samp1.dll=
+c:\arquivos de programas\arquivos comuns\crystal decisions\2.0\bin\u2ddisk.dll=
+c:\arquivos de programas\arquivos comuns\crystal decisions\2.0\bin\u2ftext.dll=
+c:\arquivos de programas\arquivos comuns\crystal decisions\2.0\bin\u2l2000.dll=
+c:\arquivos de programas\arquivos comuns\crystal decisions\2.0\bin\u2lcom.dll=
+c:\arquivos de programas\arquivos comuns\crystal decisions\2.0\bin\u2ldts.dll=
+c:\arquivos de programas\arquivos comuns\crystal decisions\2.0\bin\u2lexch.dll=
+c:\arquivos de programas\arquivos comuns\crystal decisions\2.0\bin\u2lfinra.dll=
+c:\arquivos de programas\arquivos comuns\crystal decisions\2.0\bin\ufmanager.dll=
+
+[Package|Standard Setup Package 1|Files In Project]
+D:\matiz\Indigo Works\IndigoWorks.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\Mscomctl.ocx=Yes
+C:\WINDOWS\system32\MSMASK32.OCX=Yes
+C:\WINDOWS\system32\MSFLXGRD.OCX=Yes
+C:\WINDOWS\system32\TABCTL32.OCX=Yes
+C:\WINDOWS\system32\Comdlg32.ocx=Yes
+C:\Arquivos de programas\Crystal Decisions\Report Designer Component\craxdrt9.dll=No
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT.DLL=Yes
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\crtowords_en.dll=No
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\ufmanager.dll=No
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\u2l2000.dll=No
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\u2lcom.dll=No
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\u2ldts.dll=No
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\u2lexch.dll=No
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\u2lfinra.dll=No
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\u252000.dll=No
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\u25dts.dll=No
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\u25samp1.dll=No
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\sscsdk80.dll=No
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\Implode.dll=No
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\crqe.dll=No
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\crdb_ado.dll=No
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\crdb_dao.dll=No
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\crdb_odbc.dll=No
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\querybuilder.dll=No
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\exlate32.dll=No
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\crxf_rtf.dll=No
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\ExportModeller.dll=No
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\crtslv.dll=No
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\crxf_wordw.dll=No
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\crxf_xls.dll=No
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\crxf_pdf.dll=No
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\u2ftext.dll=No
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\u2ddisk.dll=No
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\keycode.dll=Yes
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\CR9Deploy.reg=No
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\craxddrt9.dll=No
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\sscrc.dll=No
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\sscdlg.dll=No
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\CRAnalyzer.dll=No
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\p2ixbse.dll=No
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\crdb_dictionary.dll=No
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\filedialog.dll=Yes
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\sacommoncontrols.dll=No
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|Standard Setup Package 1|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 1|Install Locations]
+D:\matiz\Indigo Works\IndigoWorks.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\Mscomctl.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSMASK32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSFLXGRD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\TABCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\Comdlg32.ocx=$(WinSysPath)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT.DLL=$(WinSysPath)
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\keycode.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\filedialog.dll=$(CommonFiles)\Crystal Decisions\2.0\bin
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|Standard Setup Package 1|Configure Shared Files]
+Applicable=Yes
+D:\matiz\Indigo Works\IndigoWorks.exe=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+
+[Package|Standard Setup Package 1|Distribution]
+Type=single
+Size=
+Title=Indigo Works
+
+[Package|Standard Setup Package 1|IconGroups]
+Group0=Indigo Works
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|Standard Setup Package 1|Indigo Works]
+Icon1=IndigoWorks.exe
+Title1=Indigo Works
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standard Setup Package 1|Package]
+PackageFolder=c:\Documents and Settings\Administrador\Meus documentos\Teste Indigo
+ProjectFolder=D:\matiz\Indigo Works
+ServerSideCab=
+File1=c:\Documents and Settings\Administrador\Meus documentos\Teste Indigo\setup.exe
+File2=c:\Documents and Settings\Administrador\Meus documentos\Teste Indigo\Setup.Lst
+File3=c:\Documents and Settings\Administrador\Meus documentos\Teste Indigo\IndigoWorks.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Standard Setup Package 3|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=c:\Documents and Settings\Administrador\Meus documentos\Teste Indigo
+
+[Package|Standard Setup Package 3|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standard Setup Package 3|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 3|Files Found]
+
+[Package|Standard Setup Package 3|Files Released]
+u2dapp.dll=
+u2dpost.dll=
+u2fxml.dll=
+u2fsepv.dll=
+u2fcr.dll=
+Unicows.dll=
+
+[Package|Standard Setup Package 3|Missing Dependency Information]
+
+[Package|Standard Setup Package 3|Out-of-Date Dependency Information]
+
+[Package|Standard Setup Package 3|Files Added]
+
+[Package|Standard Setup Package 3|Files Removed]
+c:\arquivos de programas\arquivos comuns\crystal decisions\2.0\bin\cr9deploy.reg=
+c:\arquivos de programas\arquivos comuns\crystal decisions\2.0\bin\cranalyzer.dll=
+c:\arquivos de programas\arquivos comuns\crystal decisions\2.0\bin\craxddrt9.dll=
+c:\arquivos de programas\crystal decisions\report designer component\craxdrt9.dll=
+c:\arquivos de programas\arquivos comuns\crystal decisions\2.0\bin\crdb_ado.dll=
+c:\arquivos de programas\arquivos comuns\crystal decisions\2.0\bin\crdb_dao.dll=
+c:\arquivos de programas\arquivos comuns\crystal decisions\2.0\bin\crdb_dictionary.dll=
+c:\arquivos de programas\arquivos comuns\crystal decisions\2.0\bin\crdb_odbc.dll=
+c:\arquivos de programas\arquivos comuns\crystal decisions\2.0\bin\crqe.dll=
+c:\arquivos de programas\arquivos comuns\crystal decisions\2.0\bin\crtowords_en.dll=
+c:\arquivos de programas\arquivos comuns\crystal decisions\2.0\bin\crtslv.dll=
+c:\arquivos de programas\arquivos comuns\crystal decisions\2.0\bin\crxf_pdf.dll=
+c:\arquivos de programas\arquivos comuns\crystal decisions\2.0\bin\crxf_rtf.dll=
+c:\arquivos de programas\arquivos comuns\crystal decisions\2.0\bin\crxf_wordw.dll=
+c:\arquivos de programas\arquivos comuns\crystal decisions\2.0\bin\crxf_xls.dll=
+c:\arquivos de programas\arquivos comuns\crystal decisions\2.0\bin\exlate32.dll=
+c:\arquivos de programas\arquivos comuns\crystal decisions\2.0\bin\exportmodeller.dll=
+c:\arquivos de programas\arquivos comuns\crystal decisions\2.0\bin\filedialog.dll=
+c:\arquivos de programas\arquivos comuns\crystal decisions\2.0\bin\implode.dll=
+c:\arquivos de programas\arquivos comuns\crystal decisions\2.0\bin\keycode.dll=
+c:\arquivos de programas\arquivos comuns\crystal decisions\2.0\bin\p2ixbse.dll=
+c:\arquivos de programas\arquivos comuns\crystal decisions\2.0\bin\querybuilder.dll=
+c:\arquivos de programas\arquivos comuns\crystal decisions\2.0\bin\sacommoncontrols.dll=
+c:\arquivos de programas\arquivos comuns\crystal decisions\2.0\bin\sscdlg.dll=
+c:\arquivos de programas\arquivos comuns\crystal decisions\2.0\bin\sscrc.dll=
+c:\arquivos de programas\arquivos comuns\crystal decisions\2.0\bin\sscsdk80.dll=
+c:\arquivos de programas\arquivos comuns\crystal decisions\2.0\bin\u252000.dll=
+c:\arquivos de programas\arquivos comuns\crystal decisions\2.0\bin\u25dts.dll=
+c:\arquivos de programas\arquivos comuns\crystal decisions\2.0\bin\u25samp1.dll=
+c:\arquivos de programas\arquivos comuns\crystal decisions\2.0\bin\u2ddisk.dll=
+c:\arquivos de programas\arquivos comuns\crystal decisions\2.0\bin\u2ftext.dll=
+c:\arquivos de programas\arquivos comuns\crystal decisions\2.0\bin\u2l2000.dll=
+c:\arquivos de programas\arquivos comuns\crystal decisions\2.0\bin\u2lcom.dll=
+c:\arquivos de programas\arquivos comuns\crystal decisions\2.0\bin\u2ldts.dll=
+c:\arquivos de programas\arquivos comuns\crystal decisions\2.0\bin\u2lexch.dll=
+c:\arquivos de programas\arquivos comuns\crystal decisions\2.0\bin\u2lfinra.dll=
+c:\arquivos de programas\arquivos comuns\crystal decisions\2.0\bin\ufmanager.dll=
+
+[Package|Standard Setup Package 3|Files In Project]
+D:\matiz\Indigo Works\IndigoWorks.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\Mscomctl.ocx=Yes
+C:\WINDOWS\system32\MSMASK32.OCX=Yes
+C:\WINDOWS\system32\MSFLXGRD.OCX=Yes
+C:\WINDOWS\system32\TABCTL32.OCX=Yes
+C:\WINDOWS\system32\Comdlg32.ocx=Yes
+C:\Arquivos de programas\Crystal Decisions\Report Designer Component\craxdrt9.dll=No
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT.DLL=Yes
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\crtowords_en.dll=No
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\ufmanager.dll=No
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\u2l2000.dll=No
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\u2lcom.dll=No
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\u2ldts.dll=No
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\u2lexch.dll=No
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\u2lfinra.dll=No
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\u252000.dll=No
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\u25dts.dll=No
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\u25samp1.dll=No
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\sscsdk80.dll=No
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\Implode.dll=No
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\crqe.dll=No
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\crdb_ado.dll=No
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\crdb_dao.dll=No
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\crdb_odbc.dll=No
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\querybuilder.dll=No
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\exlate32.dll=No
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\crxf_rtf.dll=No
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\ExportModeller.dll=No
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\crtslv.dll=No
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\crxf_wordw.dll=No
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\crxf_xls.dll=No
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\crxf_pdf.dll=No
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\u2ftext.dll=No
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\u2ddisk.dll=No
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\keycode.dll=No
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\CR9Deploy.reg=No
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\craxddrt9.dll=No
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\sscrc.dll=No
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\sscdlg.dll=No
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\CRAnalyzer.dll=No
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\p2ixbse.dll=No
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\crdb_dictionary.dll=No
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\filedialog.dll=No
+C:\Arquivos de programas\Arquivos comuns\Crystal Decisions\2.0\bin\sacommoncontrols.dll=No
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|Standard Setup Package 3|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 3|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 3|Install Locations]
+D:\matiz\Indigo Works\IndigoWorks.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\Mscomctl.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSMASK32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSFLXGRD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\TABCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\Comdlg32.ocx=$(WinSysPath)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT.DLL=$(WinSysPath)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|Standard Setup Package 3|Configure Shared Files]
+Applicable=Yes
+D:\matiz\Indigo Works\IndigoWorks.exe=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+
+[Package|Standard Setup Package 3|Distribution]
+Type=single
+Size=
+Title=Indigo Works
+
+[Package|Standard Setup Package 3|IconGroups]
+Group0=Indigo Works
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|Standard Setup Package 3|Indigo Works]
+Icon1=IndigoWorks.exe
+Title1=Indigo Works
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standard Setup Package 3|Package]
+PackageFolder=c:\Documents and Settings\Administrador\Meus documentos\Teste Indigo
+ProjectFolder=D:\matiz\Indigo Works
+ServerSideCab=
+File1=c:\Documents and Settings\Administrador\Meus documentos\Teste Indigo\setup.exe
+File2=c:\Documents and Settings\Administrador\Meus documentos\Teste Indigo\Setup.Lst
+File3=c:\Documents and Settings\Administrador\Meus documentos\Teste Indigo\IndigoWorks.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Standard Setup Package 4|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=c:\Documents and Settings\Administrador\Meus documentos\Teste Indigo
+
+[Package|Standard Setup Package 4|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standard Setup Package 4|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 4|Files Found]
+
+[Package|Standard Setup Package 4|Files Released]
+
+[Package|Standard Setup Package 4|Missing Dependency Information]
+
+[Package|Standard Setup Package 4|Out-of-Date Dependency Information]
+
+[Package|Standard Setup Package 4|Files Added]
+
+[Package|Standard Setup Package 4|Files Removed]
+
+[Package|Standard Setup Package 4|Files In Project]
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\Mscomctl.ocx=Yes
+C:\WINDOWS\system32\MSMASK32.OCX=Yes
+C:\WINDOWS\system32\MSFLXGRD.OCX=Yes
+C:\WINDOWS\system32\TABCTL32.OCX=Yes
+C:\WINDOWS\system32\Comdlg32.ocx=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+D:\matiz\Indigo Works\Indigo Works.exe=Yes
+
+[Package|Standard Setup Package 4|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 4|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 4|Install Locations]
+D:\matiz\Indigo Works\IndigoWorks.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\Mscomctl.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSMASK32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSFLXGRD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\TABCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\Comdlg32.ocx=$(WinSysPath)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\matiz\Indigo Works\Indigo Works.exe=$(AppPath)
+
+[Package|Standard Setup Package 4|Configure Shared Files]
+Applicable=Yes
+D:\matiz\Indigo Works\IndigoWorks.exe=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+D:\matiz\Indigo Works\Indigo Works.exe=No
+
+[Package|Standard Setup Package 4|Distribution]
+Type=single
+Size=
+Title=Indigo Works
+
+[Package|Standard Setup Package 4|IconGroups]
+Group0=Indigo Works
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|Standard Setup Package 4|Indigo Works]
+Icon1=IndigoWorks.exe
+Title1=Indigo Works
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standard Setup Package 4|Package]
+PackageFolder=c:\Documents and Settings\Administrador\Meus documentos\Teste Indigo
+ProjectFolder=D:\matiz\Indigo Works
+ServerSideCab=
+File1=c:\Documents and Settings\Administrador\Meus documentos\Teste Indigo\setup.exe
+File2=c:\Documents and Settings\Administrador\Meus documentos\Teste Indigo\Setup.Lst
+File3=c:\Documents and Settings\Administrador\Meus documentos\Teste Indigo\Indigo Works.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Standard Setup Package 5|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=c:\Documents and Settings\Administrador\Meus documentos\Teste Indigo
+
+[Package|Standard Setup Package 5|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standard Setup Package 5|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 5|Files Found]
+
+[Package|Standard Setup Package 5|Files Released]
+
+[Package|Standard Setup Package 5|Missing Dependency Information]
+
+[Package|Standard Setup Package 5|Out-of-Date Dependency Information]
+
+[Package|Standard Setup Package 5|Files Added]
+D:\matiz\Indigo Works\IndigoWorks.mdb=
+
+[Package|Standard Setup Package 5|Files Removed]
+
+[Package|Standard Setup Package 5|Files In Project]
+D:\matiz\Indigo Works\Indigo Works.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\Mscomctl.ocx=Yes
+C:\WINDOWS\system32\MSMASK32.OCX=Yes
+C:\WINDOWS\system32\MSFLXGRD.OCX=Yes
+C:\WINDOWS\system32\TABCTL32.OCX=Yes
+C:\WINDOWS\system32\Comdlg32.ocx=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+D:\matiz\Indigo Works\IndigoWorks.mdb=Yes
+
+[Package|Standard Setup Package 5|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 5|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 5|Install Locations]
+D:\matiz\Indigo Works\Indigo Works.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\Mscomctl.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSMASK32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSFLXGRD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\TABCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\Comdlg32.ocx=$(WinSysPath)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\matiz\Indigo Works\IndigoWorks.mdb=$(AppPath)
+
+[Package|Standard Setup Package 5|Configure Shared Files]
+Applicable=Yes
+D:\matiz\Indigo Works\Indigo Works.exe=No
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+D:\matiz\Indigo Works\IndigoWorks.mdb=No
+
+[Package|Standard Setup Package 5|Distribution]
+Type=single
+Size=
+Title=Indigo Works
+
+[Package|Standard Setup Package 5|IconGroups]
+Group0=Indigo Works
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|Standard Setup Package 5|Indigo Works]
+Icon1="Indigo Works.exe"
+Title1=Indigo Works
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standard Setup Package 5|Package]
+PackageFolder=c:\Documents and Settings\Administrador\Meus documentos\Teste Indigo
+ProjectFolder=D:\matiz\Indigo Works
+ServerSideCab=
+File1=c:\Documents and Settings\Administrador\Meus documentos\Teste Indigo\setup.exe
+File2=c:\Documents and Settings\Administrador\Meus documentos\Teste Indigo\Setup.Lst
+File3=c:\Documents and Settings\Administrador\Meus documentos\Teste Indigo\Indigo Works.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Standard Setup Package 6|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=c:\Documents and Settings\Administrador\Meus documentos\Teste Indigo
+
+[Package|Standard Setup Package 6|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standard Setup Package 6|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 6|Files Found]
+
+[Package|Standard Setup Package 6|Files Released]
+
+[Package|Standard Setup Package 6|Missing Dependency Information]
+
+[Package|Standard Setup Package 6|Out-of-Date Dependency Information]
+C:\Arquivos de programas\Microsoft Office\Office\MSCAL.OCX=
+
+[Package|Standard Setup Package 6|Files Added]
+D:\matiz\Indigo Works\IndigoWorks.mdb=
+
+[Package|Standard Setup Package 6|Files Removed]
+
+[Package|Standard Setup Package 6|Files In Project]
+D:\matiz\Indigo Works\Indigo Works.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\Mscomctl.ocx=Yes
+C:\WINDOWS\system32\MSMASK32.OCX=Yes
+C:\WINDOWS\system32\MSFLXGRD.OCX=Yes
+C:\WINDOWS\system32\TABCTL32.OCX=Yes
+C:\WINDOWS\system32\Comdlg32.ocx=Yes
+C:\Arquivos de programas\Microsoft Office\Office\MSCAL.OCX=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+D:\matiz\Indigo Works\IndigoWorks.mdb=Yes
+
+[Package|Standard Setup Package 6|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 6|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 6|Install Locations]
+D:\matiz\Indigo Works\Indigo Works.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\Mscomctl.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSMASK32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSFLXGRD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\TABCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\Comdlg32.ocx=$(WinSysPath)
+C:\Arquivos de programas\Microsoft Office\Office\MSCAL.OCX=$(WinSysPath)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\matiz\Indigo Works\IndigoWorks.mdb=$(AppPath)
+
+[Package|Standard Setup Package 6|Configure Shared Files]
+Applicable=Yes
+D:\matiz\Indigo Works\Indigo Works.exe=No
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+D:\matiz\Indigo Works\IndigoWorks.mdb=No
+
+[Package|Standard Setup Package 6|Distribution]
+Type=single
+Size=
+Title=Indigo Works
+
+[Package|Standard Setup Package 6|IconGroups]
+Group0=Indigo Works
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|Standard Setup Package 6|Indigo Works]
+Icon1="Indigo Works.exe"
+Title1=Indigo Works
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standard Setup Package 6|Package]
+PackageFolder=c:\Documents and Settings\Administrador\Meus documentos\Teste Indigo
+ProjectFolder=D:\matiz\Indigo Works
+ServerSideCab=
+File1=c:\Documents and Settings\Administrador\Meus documentos\Teste Indigo\setup.exe
+File2=c:\Documents and Settings\Administrador\Meus documentos\Teste Indigo\Setup.Lst
+File3=c:\Documents and Settings\Administrador\Meus documentos\Teste Indigo\Indigo Works.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Standard Setup Package 7|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\matiz\Indigo Works\Package
+
+[Package|Standard Setup Package 7|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standard Setup Package 7|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 7|Files Found]
+
+[Package|Standard Setup Package 7|Files Released]
+
+[Package|Standard Setup Package 7|Missing Dependency Information]
+D:\matiz\Indigo Works\msflxgrd.ocx=
+D:\matiz\Indigo Works\msmask32.ocx=
+C:\Arquivos de programas\Arquivos comuns\System\ado\msado25.tlb=
+
+[Package|Standard Setup Package 7|Out-of-Date Dependency Information]
+C:\Arquivos de programas\Microsoft Office\Office\MSCAL.OCX=
+C:\WINDOWS\system32\comdlg32.ocx=
+C:\WINDOWS\system32\TABCTL32.OCX=
+C:\WINDOWS\system32\mscomctl.ocx=
+
+[Package|Standard Setup Package 7|Files Added]
+D:\matiz\Indigo Works\IndigoWorks.mdb=
+
+[Package|Standard Setup Package 7|Files Removed]
+
+[Package|Standard Setup Package 7|Files In Project]
+D:\matiz\Indigo Works\Indigo Works.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Arquivos de programas\Arquivos comuns\System\ado\msado25.tlb=Yes
+C:\WINDOWS\system32\mscomctl.ocx=Yes
+D:\matiz\Indigo Works\msmask32.ocx=Yes
+D:\matiz\Indigo Works\msflxgrd.ocx=Yes
+C:\WINDOWS\system32\TABCTL32.OCX=Yes
+C:\WINDOWS\system32\comdlg32.ocx=Yes
+C:\Arquivos de programas\Microsoft Office\Office\MSCAL.OCX=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+D:\matiz\Indigo Works\IndigoWorks.mdb=Yes
+
+[Package|Standard Setup Package 7|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 7|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 7|Install Locations]
+D:\matiz\Indigo Works\Indigo Works.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Arquivos de programas\Arquivos comuns\System\ado\msado25.tlb=$(WinSysPath)
+C:\WINDOWS\system32\mscomctl.ocx=$(WinSysPath)
+D:\matiz\Indigo Works\msmask32.ocx=$(WinSysPath)
+D:\matiz\Indigo Works\msflxgrd.ocx=$(WinSysPath)
+C:\WINDOWS\system32\TABCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\comdlg32.ocx=$(WinSysPath)
+C:\Arquivos de programas\Microsoft Office\Office\MSCAL.OCX=$(WinSysPath)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\matiz\Indigo Works\IndigoWorks.mdb=$(AppPath)
+
+[Package|Standard Setup Package 7|Configure Shared Files]
+Applicable=Yes
+D:\matiz\Indigo Works\Indigo Works.exe=Yes
+D:\matiz\Indigo Works\IndigoWorks.mdb=Yes
+
+[Package|Standard Setup Package 7|Distribution]
+Type=single
+Size=
+Title=Indigo Works
+
+[Package|Standard Setup Package 7|IconGroups]
+Group0=Indigo Works
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|Standard Setup Package 7|Indigo Works]
+Icon1="Indigo Works.exe"
+Title1=Indigo Works
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standard Setup Package 7|Package]
+PackageFolder=D:\matiz\Indigo Works\Package
+ProjectFolder=D:\matiz\Indigo Works
+ServerSideCab=
+File1=D:\matiz\Indigo Works\Package\setup.exe
+File2=D:\matiz\Indigo Works\Package\Setup.Lst
+File3=D:\matiz\Indigo Works\Package\Indigo Works.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Dep File 1|Root]
+SubWizProgID=PDWizard.DepPkgSubWiz
+BuildFolder=D:\matiz\Indigo Works\Pacote
+
+[Package|Dep File 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Dep File 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Dep File 1|Files Found]
+
+[Package|Dep File 1|Files Released]
+
+[Package|Dep File 1|Missing Dependency Information]
+
+[Package|Dep File 1|Out-of-Date Dependency Information]
+C:\Arquivos de programas\Microsoft Office\Office\MSCAL.OCX=
+C:\WINDOWS\system32\comdlg32.ocx=
+C:\WINDOWS\system32\TABCTL32.OCX=
+C:\WINDOWS\system32\mscomctl.ocx=
+
+[Package|Dep File 1|Files Added]
+D:\matiz\Indigo Works\IndigoWorks.mdb=
+
+[Package|Dep File 1|Files Removed]
+
+[Package|Dep File 1|Files In Project]
+D:\matiz\Indigo Works\Indigo Works.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Arquivos de programas\Arquivos comuns\System\ado\msado25.tlb=Yes
+C:\WINDOWS\system32\mscomctl.ocx=Yes
+D:\matiz\Indigo Works\msmask32.ocx=Yes
+D:\matiz\Indigo Works\msflxgrd.ocx=Yes
+C:\WINDOWS\system32\TABCTL32.OCX=Yes
+C:\WINDOWS\system32\comdlg32.ocx=Yes
+C:\Arquivos de programas\Microsoft Office\Office\MSCAL.OCX=Yes
+D:\matiz\Indigo Works\IndigoWorks.mdb=Yes
+
+[Package|Dep File 1|Configure Registry Files]
+Applicable=
+
+[Package|Dep File 1|Configure Remote Servers]
+Applicable=
+
+[Package|Dep File 1|Install Locations]
+D:\matiz\Indigo Works\Indigo Works.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Arquivos de programas\Arquivos comuns\System\ado\msado25.tlb=$(WinSysPath)
+C:\WINDOWS\system32\mscomctl.ocx=$(WinSysPath)
+D:\matiz\Indigo Works\msmask32.ocx=$(WinSysPath)
+D:\matiz\Indigo Works\msflxgrd.ocx=$(WinSysPath)
+C:\WINDOWS\system32\TABCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\comdlg32.ocx=$(WinSysPath)
+C:\Arquivos de programas\Microsoft Office\Office\MSCAL.OCX=$(WinSysPath)
+D:\matiz\Indigo Works\IndigoWorks.mdb=$(AppPath)
+
+[Package|Dep File 1|Configure Shared Files]
+Applicable=
+
+[Package|Dep File 1|DepFile]
+DepCabFile=Indigo Works.CAB
+DepCabRun=Indigo Works.INF
+
+[Package|Dep File 1|Package]
+PackageFolder=D:\matiz\Indigo Works\Pacote
+ProjectFolder=D:\matiz\Indigo Works
+ServerSideCab=
+File1=D:\matiz\Indigo Works\Pacote\Indigo Works.DEP
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Indigo Works Final|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=d:\matiz\Indigo Works\Pacote
+
+[Package|Indigo Works Final|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Indigo Works Final|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Indigo Works Final|Files Found]
+
+[Package|Indigo Works Final|Files Released]
+IndigoWorks.mdb=
+
+[Package|Indigo Works Final|Missing Dependency Information]
+D:\matiz\Indigo Works\msflxgrd.ocx=
+D:\matiz\Indigo Works\msmask32.ocx=
+C:\Arquivos de programas\Arquivos comuns\System\ado\msado25.tlb=
+
+[Package|Indigo Works Final|Out-of-Date Dependency Information]
+C:\Arquivos de programas\Microsoft Office\Office\MSCAL.OCX=
+C:\WINDOWS\system32\comdlg32.ocx=
+C:\WINDOWS\system32\TABCTL32.OCX=
+C:\WINDOWS\system32\mscomctl.ocx=
+
+[Package|Indigo Works Final|Files Added]
+indigoworks.mdb=
+
+[Package|Indigo Works Final|Files Removed]
+
+[Package|Indigo Works Final|Files In Project]
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\Mscomctl.ocx=Yes
+C:\WINDOWS\system32\TABCTL32.OCX=Yes
+C:\WINDOWS\system32\Comdlg32.ocx=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\Arquivos de programas\Arquivos comuns\System\ado\msado25.tlb=Yes
+D:\Indigo Works\Indigo Works.exe=Yes
+C:\WINDOWS\system32\MSMASK32.OCX=Yes
+C:\WINDOWS\system32\MSFLXGRD.OCX=Yes
+C:\Arquivos de programas\Microsoft Office\Office12\MSCAL.OCX=Yes
+
+[Package|Indigo Works Final|Configure Registry Files]
+Applicable=No
+
+[Package|Indigo Works Final|Configure Remote Servers]
+Applicable=No
+
+[Package|Indigo Works Final|Install Locations]
+D:\matiz\Indigo Works\Indigo Works.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\Mscomctl.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSMASK32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSFLXGRD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\TABCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\Comdlg32.ocx=$(WinSysPath)
+C:\Arquivos de programas\Microsoft Office\Office\MSCAL.OCX=$(WinSysPath)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Arquivos de programas\Arquivos comuns\System\ado\msado25.tlb=$(WinSysPath)
+D:\matiz\Indigo Works\msmask32.ocx=$(WinSysPath)
+D:\matiz\Indigo Works\msflxgrd.ocx=$(WinSysPath)
+D:\matiz\Indigo Works\IndigoWorks.mdb=$(AppPath)
+D:\Indigo Works\Indigo Works.exe=$(AppPath)
+C:\Arquivos de programas\Microsoft Office\Office12\MSCAL.OCX=$(AppPath)
+
+[Package|Indigo Works Final|Configure Shared Files]
+Applicable=Yes
+D:\matiz\Indigo Works\Indigo Works.exe=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+D:\matiz\Indigo Works\IndigoWorks.mdb=Yes
+D:\Indigo Works\Indigo Works.exe=Yes
+C:\Arquivos de programas\Microsoft Office\Office12\MSCAL.OCX=Yes
+
+[Package|Indigo Works Final|Distribution]
+Type=single
+Size=1.44 MB
+Title=Indigo Works
+
+[Package|Indigo Works Final|IconGroups]
+Group0=Indigo Works
+PrivateGroup0=False
+Parent0=$(Programs)
+
+[Package|Indigo Works Final|Indigo Works]
+Icon1="Indigo Works.exe"
+Title1=Indigo Works
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Indigo Works Final|Package]
+PackageFolder=d:\matiz\Indigo Works\Pacote
+ProjectFolder=D:\Indigo Works
+ServerSideCab=
+File1=d:\matiz\Indigo Works\Pacote\setup.exe
+File2=d:\matiz\Indigo Works\Pacote\Setup.Lst
+File3=d:\matiz\Indigo Works\Pacote\Indigo Works.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Indigo Works 2.1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Delcio\Indigo Works novo\Pacote
+
+[Package|Indigo Works 2.1|Configure DAO ISAMs]
+Applicable=Yes
+Jet 2.x=Yes
+
+[Package|Indigo Works 2.1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Indigo Works 2.1|Files Found]
+
+[Package|Indigo Works 2.1|Files Released]
+IndigoWorks.mdb=
+
+[Package|Indigo Works 2.1|Missing Dependency Information]
+D:\matiz\Indigo Works\msflxgrd.ocx=
+D:\matiz\Indigo Works\msmask32.ocx=
+C:\Arquivos de programas\Arquivos comuns\System\ado\msado25.tlb=
+C:\Program Files (x86)\DsNET Corp\aTube Catcher 2.0\MSCOMCTL.OCX=
+C:\Windows\winsxs\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.7601.17514_none_ec83dffa859149af\comctl32.dll=
+
+[Package|Indigo Works 2.1|Out-of-Date Dependency Information]
+C:\Arquivos de programas\Microsoft Office\Office\MSCAL.OCX=
+C:\WINDOWS\system32\comdlg32.ocx=
+C:\WINDOWS\system32\TABCTL32.OCX=
+C:\WINDOWS\system32\mscomctl.ocx=
+C:\Windows\SysWOW64\MSCAL.OCX=
+
+[Package|Indigo Works 2.1|Files Added]
+
+[Package|Indigo Works 2.1|Files Removed]
+
+[Package|Indigo Works 2.1|Files In Project]
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Users\Torres\Desktop\Indigo Works.exe=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Windows\winsxs\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.7601.17514_none_ec83dffa859149af\comctl32.dll=Yes
+C:\Windows\SysWOW64\MSMASK32.OCX=Yes
+C:\Windows\SysWOW64\MSFLXGRD.OCX=Yes
+C:\Windows\SysWOW64\TABCTL32.OCX=Yes
+C:\Windows\SysWOW64\COMDLG32.OCX=Yes
+C:\Windows\SysWOW64\MSCAL.OCX=Yes
+C:\Program Files (x86)\Common Files\microsoft shared\DAO\DAO350.DLL=Yes
+C:\Windows\System32\MSJET35.DLL=Yes
+C:\Windows\System32\MSJTER35.DLL=Yes
+C:\Windows\System32\MSJINT35.DLL=Yes
+C:\Windows\System32\vbajet32.dll=Yes
+C:\Windows\System32\expsrv.dll=Yes
+C:\Windows\System32\MSRD2X35.DLL=Yes
+C:\Windows\System32\MSREPL35.DLL=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=Yes
+C:\Windows\System32\VB5DB.DLL=Yes
+C:\Program Files (x86)\DsNET Corp\aTube Catcher 2.0\MSCOMCTL.OCX=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|Indigo Works 2.1|Configure Registry Files]
+Applicable=No
+
+[Package|Indigo Works 2.1|Configure Remote Servers]
+Applicable=No
+
+[Package|Indigo Works 2.1|Install Locations]
+D:\matiz\Indigo Works\Indigo Works.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\Mscomctl.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSMASK32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSFLXGRD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\TABCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\Comdlg32.ocx=$(WinSysPath)
+C:\Arquivos de programas\Microsoft Office\Office\MSCAL.OCX=$(WinSysPath)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Arquivos de programas\Arquivos comuns\System\ado\msado25.tlb=$(WinSysPath)
+D:\matiz\Indigo Works\msmask32.ocx=$(WinSysPath)
+D:\matiz\Indigo Works\msflxgrd.ocx=$(WinSysPath)
+D:\matiz\Indigo Works\IndigoWorks.mdb=$(AppPath)
+D:\Indigo Works\Indigo Works.exe=$(AppPath)
+C:\Arquivos de programas\Microsoft Office\Office12\MSCAL.OCX=$(AppPath)
+C:\Users\Torres\Desktop\Indigo Works.exe=$(AppPath)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Windows\winsxs\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.7601.17514_none_ec83dffa859149af\comctl32.dll=$(WinSysPath)
+C:\Windows\SysWOW64\MSMASK32.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\MSFLXGRD.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\TABCTL32.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\COMDLG32.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\MSCAL.OCX=$(WinSysPath)
+C:\Program Files (x86)\Common Files\microsoft shared\DAO\DAO350.DLL=$(MSDAOPath)
+C:\Windows\System32\MSJET35.DLL=$(WinSysPathSysFile)
+C:\Windows\System32\MSJTER35.DLL=$(WinSysPathSysFile)
+C:\Windows\System32\MSJINT35.DLL=$(WinSysPathSysFile)
+C:\Windows\System32\vbajet32.dll=$(WinSysPathSysFile)
+C:\Windows\System32\expsrv.dll=$(WinSysPathSysFile)
+C:\Windows\System32\MSRD2X35.DLL=$(WinSysPathSysFile)
+C:\Windows\System32\MSREPL35.DLL=$(WinSysPathSysFile)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\Windows\System32\VB5DB.DLL=$(WinSysPath)
+C:\Program Files (x86)\DsNET Corp\aTube Catcher 2.0\MSCOMCTL.OCX=$(WinSysPath)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|Indigo Works 2.1|Configure Shared Files]
+Applicable=Yes
+D:\matiz\Indigo Works\Indigo Works.exe=Yes
+C:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+D:\matiz\Indigo Works\IndigoWorks.mdb=Yes
+D:\Indigo Works\Indigo Works.exe=Yes
+C:\Arquivos de programas\Microsoft Office\Office12\MSCAL.OCX=Yes
+C:\Users\Torres\Desktop\Indigo Works.exe=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+
+[Package|Indigo Works 2.1|Distribution]
+Type=single
+Size=1.44 MB
+Title=Indigo Works 2.1
+
+[Package|Indigo Works 2.1|IconGroups]
+Group0=Indigo Works
+PrivateGroup0=0
+Parent0=$(Programs)
+
+[Package|Indigo Works 2.1|Indigo Works]
+Icon1="Indigo Works.exe"
+Title1=Indigo Works
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Indigo Works 2.1|Package]
+PackageFolder=C:\Delcio\Indigo Works novo\Pacote
+ProjectFolder=C:\Delcio\Indigo Works novo
+ServerSideCab=
+File1=C:\Delcio\Indigo Works novo\Pacote\setup.exe
+File2=C:\Delcio\Indigo Works novo\Pacote\Setup.Lst
+File3=C:\Delcio\Indigo Works novo\Pacote\Indigo Works.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
